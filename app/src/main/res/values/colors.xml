@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFC1A1</color> <!-- Warna primer -->
+    <color name="colorPrimaryDark">#FF6C5B</color> <!-- Warna primer gelap -->
+    <color name="colorAccent">#FFB07B</color> <!-- Warna aksen -->
+    <color name="green">#A6D785</color> <!-- Warna hijau -->
+    <color name="cool">#B4D1E4</color> <!-- Warna kalem -->
+    <color name="warm">#F7B1C6</color> <!-- Warna hangat -->
+</resources>
